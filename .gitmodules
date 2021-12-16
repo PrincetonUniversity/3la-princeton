@@ -1,0 +1,18 @@
+[submodule "flexnlp-ila"]
+	path = flexnlp-ila
+	url = git@github.com:PrincetonUniversity/flexnlp-ila.git
+[submodule "hlscnn-ila"]
+	path = hlscnn-ila
+	url = git@github.com:PrincetonUniversity/hlscnn-ila.git
+[submodule "vta-ila"]
+	path = vta-ila
+	url = git@github.com:LeeOHzzZ/vta-ila.git
+[submodule "ILAng"]
+	path = ILAng
+	url = git@github.com:PrincetonUniversity/ILAng.git
+[submodule "3la_sim_testbench"]
+	path = 3la_sim_testbench
+	url = git@github.com:LeeOHzzZ/3la_sim_testbench.git
+[submodule "3la_ILA_tensor_op"]
+	path = 3la_ILA_tensor_op
+	url = git@github.com:LeeOHzzZ/3la_ILA_tensor_op.git
